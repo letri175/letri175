@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @letri175
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋, I'm Le Tri
+A dreamwalker in dream realm
 
-<!---
-letri175/letri175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on OnCX
+
+🌱 I’m currently learning MERN
+
+👯 I’m working at FPT Telecom 
+
+👨‍💻 All of my projects are available at My Portfolio
+
+💬 Ask me about ReactJs, Automation Testing
+
+📫 How to reach me letris175@gmail.com
+
+📄 Know about my experiences My CV
+
+⚡ Fun fact Love hacking
